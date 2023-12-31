@@ -10,3 +10,6 @@ My code is 256 bytes long and has no loops.
 Here is the image it draws
 
 ![The image](Figure_1.png?raw=true "The image")
+
+No, wait, I can do better! Check out implementation pattern2.py
+it is only 234 bytes!
